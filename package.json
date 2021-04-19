@@ -13,6 +13,9 @@
   },
   "homepage": "https://github.com/just-baiting/prettier-config#readme",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "prettier": "^2.2.1"
   }
